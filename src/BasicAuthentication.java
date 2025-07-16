@@ -12,6 +12,9 @@ public class BasicAuthentication {
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
 		System.setProperty("webdriver.ie.driver", "/Users/rahulshetty/Documents/chromedriver");
+
+		System.setProperty("webdriver.ie.driver", "/Users/rahulshetty/Documents/chromedriver");
+		System.setProperty("webdriver.ie.driver", "/Users/rahulshetty/Documents/chromedriver");
 		
 		ChromeDriver driver = new ChromeDriver();
 		ChromeDriver driver1 = new ChromeDriver();
