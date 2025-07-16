@@ -12,6 +12,10 @@ public class BasicAuthentication2 {
 
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
+
+		System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
 		
 		ChromeDriver driver = new ChromeDriver();
 		//predicate, consumer, 13 examples
