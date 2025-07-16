@@ -16,6 +16,9 @@ public class BlockNetworkRequests {
 		
 
 System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
+
+System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
+System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
 		
 		ChromeDriver driver = new ChromeDriver();
 		//log file ->
